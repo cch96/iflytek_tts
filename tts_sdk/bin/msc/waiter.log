@@ -1,0 +1,33 @@
+============================================================
+Time  2019/09/19 21:32:58 541 
+============================================================
+[2019/09/19 21:32:58 542] waiter     120  waiter loaded!  
+[2019/09/19 21:32:58 542] network    854  update_iplist  
+[2019/09/19 21:32:58 542] network    536  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  unknown  nil  nil  
+[2019/09/19 21:32:58 542] network    501  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  nil  
+[2019/09/19 21:32:58 542] network    263  gethostbyname  open.xf-yun.com  1  
+[2019/09/19 21:32:58 542] waiter     197  last gc at  1568899978  
+[2019/09/19 21:32:58 543] network    854  update_iplist  
+[2019/09/19 21:32:58 543] waiter     197  last gc at  1568899978  
+[2019/09/19 21:32:58 553] network    245  dns resp  0  1  
+[2019/09/19 21:32:58 553] network    487  gethttpresp dns ok  42.62.116.34  
+[2019/09/19 21:32:58 553] network    445  gethttpresp2  42.62.116.34  80  2  
+[2019/09/19 21:32:58 553] network    465  prot_type  tcp  
+============================================================
+Time  2019/09/19 21:33:05 860 
+============================================================
+[2019/09/19 21:33:05 860] waiter     120  waiter loaded!  
+[2019/09/19 21:33:05 860] network    854  update_iplist  
+[2019/09/19 21:33:05 860] network    536  gethttpresp3  http://open.xf-yun.com:80/ipcfg.txt  unknown  nil  nil  
+[2019/09/19 21:33:05 860] network    501  gethttpresp  http://open.xf-yun.com:80/ipcfg.txt  nil  
+[2019/09/19 21:33:05 860] network    263  gethostbyname  open.xf-yun.com  1  
+[2019/09/19 21:33:05 860] waiter     197  last gc at  1568899985  
+[2019/09/19 21:33:05 862] network    854  update_iplist  
+[2019/09/19 21:33:05 862] waiter     197  last gc at  1568899985  
+[2019/09/19 21:33:05 862] network    245  dns resp  0  1  
+[2019/09/19 21:33:05 862] network    487  gethttpresp dns ok  42.62.116.34  
+[2019/09/19 21:33:05 862] network    445  gethttpresp2  42.62.116.34  80  2  
+[2019/09/19 21:33:05 862] network    465  prot_type  tcp  
+[2019/09/19 21:33:05 892] waiter     184  start upload timer  
+[2019/09/19 21:33:05 892] waiter     185  false  
+[2019/09/19 21:33:05 892] waiter     197  last gc at  1568899985  
